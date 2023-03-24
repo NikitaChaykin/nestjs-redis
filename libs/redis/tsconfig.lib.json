@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "outDir": "../../dist/libs/redis"
+  },
+  "exclude": ["node_modules", "dist", "test", "**/*spec.ts"],
+  "extends": "../../tsconfig.json",
+}
